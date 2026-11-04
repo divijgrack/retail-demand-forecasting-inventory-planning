@@ -1,0 +1,9 @@
+# Notebook and dashboard dependencies
+pandas
+numpy
+matplotlib
+scikit-learn
+catboost
+streamlit
+jupyter
+ipykernel
